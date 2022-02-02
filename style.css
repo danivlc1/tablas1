@@ -1,0 +1,14 @@
+table.mitabla{
+    border: red 1px solid;
+}
+td.azulito{
+    border: blue 3px solid;
+}
+table.latabla{
+    border: green 2px solid;
+    width: 40%;
+    text-align: center;
+}
+td.tablita{
+    border:green 1px solid;
+}
